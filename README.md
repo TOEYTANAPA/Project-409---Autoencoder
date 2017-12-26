@@ -1,1 +1,4 @@
 # Project-409---Autoencoder
+
+แหล่งที่มาของโค้ด 
+https://github.com/hsaghir/VAE_intuitions/blob/master/VAE_MNIST_keras.ipynb
